@@ -20,13 +20,13 @@ Prosta gra konsolowa w Pythonie, w której gracz próbuje odgadnąć losowo wyge
    ```bash
    git clone https://github.com/twojanazwauzytkownika/number-guessing-game.git
 2. Przejdź do katalogu z projektem:
-
-cd number-guessing-game
+    ```bash
+    cd number-guessing-game
 
 ### Użycie
 Uruchom program za pomocą Pythona w terminalu:
-
-python guess_number.py
+    ```bash
+    python guess_number.py
 
 Gra poprosi o wpisanie liczby z zakresu od 1 do 100. Na podstawie podanego numeru gra poinformuje, czy jest on „Za wysoki” czy „Za niski”, aż gracz zgadnie prawidłową liczbę.
 
