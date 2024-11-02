@@ -29,7 +29,7 @@ def guess_number():
        Funkcja kontynuuje prośby o zgadywanie, dopóki użytkownik nie odgadnie poprawnie,
        dostarczając informacje zwrotne, czy zgadnięta liczba jest za wysoka czy za niska.
     """
-    number = int(random.randint(1,100))
+    number = int(random.randint(1,101))
     guess = get_number()
     while guess != number:
         if guess > number:
