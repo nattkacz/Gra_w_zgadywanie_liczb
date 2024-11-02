@@ -17,17 +17,14 @@ Prosta gra konsolowa w Pythonie, w której gracz próbuje odgadnąć losowo wyge
 ### Instalacja
 
 1. Sklonuj repozytorium:
-   ```bash
-   git clone https://github.com/twojanazwauzytkownika/number-guessing-game.git
+   '''git clone https://github.com/twojanazwauzytkownika/Gra_w_zgadywanie_liczb.git
 2. Przejdź do katalogu z projektem:
-    ```bash
-    cd number-guessing-game
+   '''cd Gra_w_zgadywanie_liczb
 
 ### Użycie
 
 Uruchom program za pomocą Pythona w terminalu:
-```bash
-python guess.py
+'''python guess.py
 
 Gra poprosi o wpisanie liczby z zakresu od 1 do 100. Na podstawie podanego numeru gra poinformuje, czy jest on „Za wysoki” czy „Za niski”, aż gracz zgadnie prawidłową liczbę.
 
@@ -38,9 +35,9 @@ Gra składa się z dwóch głównych funkcji:
 #guess_number(): Główna pętla gry, która generuje losową liczbę docelową, porównuje ją z liczbami podanymi przez użytkownika i dostarcza informacji zwrotnej do momentu, aż gracz wygra.
 
 ## Przykład
-'''Zgadnij liczbę między 1 a 100: 50
-'''Za niska
-'''Zgadnij liczbę między 1 a 100: 75
-'''Za wysoka
-'''Zgadnij liczbę między 1 a 100: 63
-'''Udało się, zgadłeś liczbę!
+#Zgadnij liczbę między 1 a 100: 50
+Za niska
+Zgadnij liczbę między 1 a 100: 75
+Za wysoka
+Zgadnij liczbę między 1 a 100: 63
+Udało się, zgadłeś liczbę!
