@@ -24,6 +24,7 @@ Prosta gra konsolowa w Pythonie, w której gracz próbuje odgadnąć losowo wyge
     cd number-guessing-game
 
 ### Użycie
+
 Uruchom program za pomocą Pythona w terminalu:
     ```bash
     python guess_number.py
