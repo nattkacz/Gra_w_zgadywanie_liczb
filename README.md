@@ -35,11 +35,10 @@ Gra składa się z dwóch głównych funkcji:
 ##guess_number(): Główna pętla gry, która generuje losową liczbę docelową, porównuje ją z liczbami podanymi przez użytkownika i dostarcza informacji zwrotnej do momentu, aż gracz wygra.
 
 ## Przykład
-Zgadnij liczbę między 1 a 100: 50
+Zgadnij liczbę między 1 a 100: 50  
 Za niska
-Zgadnij liczbę między 1 a 100: 75
+Zgadnij liczbę między 1 a 100: 75  
 Za wysoka
-Zgadnij liczbę między 1 a 100: 63
+Zgadnij liczbę między 1 a 100: 63  
 Udało się, zgadłeś liczbę!
-```
-```
+
